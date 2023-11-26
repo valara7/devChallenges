@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F2F5F9;
+}
+
+.card {
+  max-width: 438px;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+}
+
+.card-images {
+  position: relative;
+  display: inline-block;
+}
+
+.card-img {
+  display: block;
+  max-width: 100%;
+  bord
